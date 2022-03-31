@@ -17,7 +17,7 @@ const config = {
       label: 'GitHub',
     },
     {
-      href: 'https://www.linkedin.com/in/ivycv/',
+      href: 'https://www.linkedin.com/in/ivycerelia/',
       aria: 'Visit my LinkedIn profile',
       icon: <LinkedIn />,
       label: 'LinkedIn',
