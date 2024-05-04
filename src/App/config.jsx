@@ -23,7 +23,7 @@ const config = {
       label: 'LinkedIn',
     },
     {
-      href: 'https://drive.google.com/file/d/1lLlQF7iUWnW1WK6mFRjNsb-9Hq0SLt_y/view?usp=sharing',
+      href: 'https://drive.google.com/file/d/1nl1s3hjjh-fEzun6Owp4Khed853HVQMP/view?usp=sharing',
       aria: 'View my resume in Google Drive',
       icon: <Resume />,
       label: 'Resume',
