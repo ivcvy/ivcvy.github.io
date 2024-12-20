@@ -94,10 +94,3 @@ a:hover::after {
     visibility: visible;
     transform: scaleX(1);
 }
-
-#data-info-text {
-    display: block;
-    margin-top: 5px;
-    font-size: 0.2em;
-    color: gray;
-}
