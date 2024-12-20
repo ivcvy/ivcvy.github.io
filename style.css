@@ -30,13 +30,13 @@
 }
 
 h1 {
-    font-size: 5em;
+    font-size: 5vw;
     text-align: right;
     margin: 0.2em 0;
 }
 
 h2 {
-    font-size: 3em;
+    font-size: 5vw;
 }
 
 h1,
@@ -50,7 +50,7 @@ h2:hover {
 }
 
 p {
-    font-size: 1.5em
+    font-size: 1.5vw
 }
 
 h1 .hover,
