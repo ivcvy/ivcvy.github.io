@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One:wght@400;700&display=swap');
 
 :root {
     color-scheme: light dark;
@@ -6,7 +6,7 @@
     --light-color: black;
     --dark-bg: black;
     --dark-color: snow;
-    --main-font: 'Alumni Sans Pinstripe', sans-serif;
+    --main-font: 'Poiret One', sans-serif;
 }
 
 * {
@@ -33,6 +33,7 @@ h1 {
     font-size: 5vw;
     text-align: right;
     margin: 0.2em 0;
+    text-decoration: bold;
 }
 
 h2 {
